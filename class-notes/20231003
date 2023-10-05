@@ -1,0 +1,29 @@
+
+	Before
+		- No out of browser interpreter (JS engine)
+
+	Now
+		- Out of browser interpreter (Node.js)
+		
+	
+	Chrome	-	V8
+	
+	abc.com
+	
+	example.com
+	
+	MEAN	-	MongoDB Express.JS Angular.JS Node JS
+	MERN	-	MongoDB Express.JS React.JS Node JS
+	
+	Pythagoras Theorem
+	
+	C & C++	-	Terminal
+	Java	-	Multi UI
+	JS	-	Browser
+	PHP -	Serverside Scripting
+	Python - General purpose (Terminal)
+	
+	Modular & Testable Programs	-	
+	Unit Testing
+	
+	
